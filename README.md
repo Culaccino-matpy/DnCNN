@@ -1,6 +1,8 @@
 # DnCNN
 Date:2021/12/27
 
+Location:西安电子科技大学
+
 本项目为做毕设之前学习pytorch进行图像去噪处理的复现练习
 
 DnCNN为经典图像去噪算法，论文地址为：https://ieeexplore.ieee.org/abstract/document/8554135
